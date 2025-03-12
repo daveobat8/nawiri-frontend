@@ -1,12 +1,31 @@
-# React + Vite
+# Nawiri Charity Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview  
+Nawiri is a charity organization dedicated to improving lives through various community-driven initiatives. This project is a **React-based website** designed to showcase Nawiri’s mission, programs, and ways to get involved.  
 
-Currently, two official plugins are available:
+## Features  
+- 🏡 **Home page** with Nawiri’s mission and vision  
+- 🌍 **Programs and initiatives** section  
+- 💖 **Donation and volunteer** opportunities  
+- 📞 **Contact page** with a form and social media links  
+- 📱 **Responsive design** using Tailwind CSS  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack  
+- **Frontend:** React.js, Tailwind CSS, ShadCN UI  
+- **Backend (Optional):** Flask / Node.js (if needed for APIs)  
+- **Hosting:** Vercel / Netlify / AWS Amplify  
 
-## Expanding the ESLint configuration
+## Getting Started  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Prerequisites  
+Ensure you have the following installed:  
+- [Node.js](https://nodejs.org/) (LTS version recommended)  
+- [Git](https://git-scm.com/)  
+
+### Installation  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/nawiri-charity.git
+   cd nawiri-charity
+npm install
+npm run dev
